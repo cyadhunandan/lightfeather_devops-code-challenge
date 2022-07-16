@@ -57,3 +57,44 @@ A few examples of extras for this coding challenge:
 4. Running the application in a serverless environment
 
 This is not an exhaustive list of extra features that could be added to this code challenge. At the end of the day, this section is for you to demonstrate any skills you want to show that’s not captured in the core requirement.
+
+# Lightfeather DevOps Code challenge Start : Execution Steps
+
+Recommended Tools and Services Required to Deploy your infrastructure:
+Intellij IDE, AWS Codepipeline, AWS Beanstalk
+
+#   1) Clone you Github project into you local after forked from Team-LightFeather/devops-code-challenge 
+![img_4.png](img_4.png)
+
+#   2) AWS Beanstalk Serverless Application creation for nodejs. This service will create EC2 instance, S3 and IAM security required for application
+
+#   Application Coniguration
+![img.png](img.png)
+
+#   Applicaiton creation steps
+![img_13.png](img_13.png)
+![img_14.png](img_14.png)
+![img_15.png](img_15.png)
+![img_16.png](img_16.png)
+
+
+#   Applicaiton instance started
+![img_17.png](img_17.png)
+![img_3.png](img_3.png)
+
+#   3) AWS Codepipeline creation
+
+![img_6.png](img_6.png) 
+
+![img_7.png](img_7.png)
+
+![img_8.png](img_8.png)
+
+![img_9.png](img_9.png)
+
+![img_18.png](img_18.png)
+
+![img_11.png](img_11.png)
+
+![img_12.png](img_12.png)
+
