@@ -98,3 +98,9 @@ Intellij IDE, AWS Codepipeline, AWS Beanstalk
 
 ![img_12.png](img_12.png)
 
+successful start application:
+![image](https://user-images.githubusercontent.com/109392082/179432380-2a192387-92fe-4aca-832c-b3d7cf58704e.png)
+
+![image](https://user-images.githubusercontent.com/109392082/179432483-6c4b0d6d-cbb9-4df2-bd68-ebb114f997c7.png)
+
+
