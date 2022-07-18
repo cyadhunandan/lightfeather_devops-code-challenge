@@ -63,7 +63,7 @@ This is not an exhaustive list of extra features that could be added to this cod
 Recommended Tools and Services Required to Deploy your infrastructure:
 Intellij IDE, AWS Codepipeline, AWS Beanstalk
 
-#   1) Clone you Github project into you local after forked from Team-LightFeather/devops-code-challenge 
+#   1) Clone your Github project into you local after forked from Team-LightFeather/devops-code-challenge. Then make required changes before check-in back the updated code.
 ![img_4.png](img_4.png)
 
 #   2) AWS Beanstalk Serverless Application creation for nodejs. This service will create EC2 instance, S3 and IAM security required for application
@@ -82,7 +82,7 @@ Intellij IDE, AWS Codepipeline, AWS Beanstalk
 ![img_17.png](img_17.png)
 ![img_3.png](img_3.png)
 
-#   3) AWS Codepipeline creation
+#   3) AWS Codepipeline creation: Connects to github and deploys changes to ec2 instance created through beanstalk. Any changes in github automatically triggers codepipeline to deploy the changes.
 
 ![img_6.png](img_6.png) 
 
